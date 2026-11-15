@@ -1,10 +1,8 @@
-// 사이트 기준 URL(canonical·sitemap·OG에 사용).
-// 우선순위: SITE_URL(직접 지정) > Vercel 프로덕션 도메인(빌드 시 자동 주입) > 로컬
+// 사이트 기준 URL(canonical·sitemap·robots·llms.txt·OG에 사용).
+// 도메인이 바뀌면 PRODUCTION_URL 을 고치고 `npm run seo:files` 로 public/ 파일을 다시 생성하세요.
+// 일회성으로 바꾸려면 SITE_URL 환경변수로 덮어쓸 수 있습니다.
+export const PRODUCTION_URL = 'https://shop-henna-delta.vercel.app'
+
 export function resolveSiteUrl(env = process.env) {
-  const raw =
-    env.SITE_URL ||
-    env.VITE_SITE_URL ||
-    (env.VERCEL_PROJECT_PRODUCTION_URL && `https://${env.VERCEL_PROJECT_PRODUCTION_URL}`) ||
-    'http://localhost:4173'
-  return raw.replace(/\/+$/, '')
+  return (env.SITE_URL || env.VITE_SITE_URL || PRODUCTION_URL).replace(/\/+$/, '')
 }

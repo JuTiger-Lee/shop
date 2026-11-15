@@ -1,0 +1,47 @@
+# MONO
+
+> MONO는 티셔츠·셔츠·후디·팬츠·자켓·코트·액세서리까지 미니멀한 무채색 데일리 캐주얼 의류를 판매하는 온라인 스토어입니다.
+
+MONO는 성별 구분 없는 단일 브랜드 캐주얼 의류 온라인 스토어입니다. 카테고리는 상의, 하의, 아우터, 액세서리이며, 가격은 원화(KRW) 기준입니다.
+이 사이트는 학습·포트폴리오용 데모이며, 결제는 토스페이먼츠 테스트 모드로만 동작합니다(실제 주문·배송 없음).
+
+## 주요 페이지
+
+- [홈](https://shop-henna-delta.vercel.app/): 신상품·베스트 상품
+- [전체 상품](https://shop-henna-delta.vercel.app/products): 카테고리·사이즈·컬러 필터, 신상순·가격순 정렬
+
+## 상의
+
+- [베이직 코튼 반팔 티셔츠](https://shop-henna-delta.vercel.app/products/1): ₩29,000 · 컬러 화이트/블랙/그레이 · 사이즈 S/M/L/XL — 20수 코튼으로 만든 데일리 반팔 티셔츠. 얇지 않은 두께감으로 속이 비치지 않습니다.
+- [오버핏 헤비 티셔츠](https://shop-henna-delta.vercel.app/products/2): ₩29,900 (정가 ₩39,000) · 컬러 차콜/아이보리 · 사이즈 S/M/L/XL — 어깨선이 내려오는 오버핏 실루엣. 12수 헤비 코튼으로 탄탄한 핏을 유지합니다.
+- [옥스포드 셔츠](https://shop-henna-delta.vercel.app/products/3): ₩49,000 · 컬러 블루/화이트 · 사이즈 S/M/L/XL — 단정한 옥스포드 원단의 버튼다운 셔츠. 단독으로도 레이어드로도 활용하기 좋습니다.
+- [루즈핏 린넨 셔츠](https://shop-henna-delta.vercel.app/products/4): ₩55,000 · 컬러 베이지/카키 · 사이즈 S/M/L/XL — 통기성이 좋은 린넨 혼방 셔츠. 여유 있는 핏으로 여름 내내 입기 좋습니다.
+- [프렌치 테리 후디](https://shop-henna-delta.vercel.app/products/5): ₩47,200 (정가 ₩59,000) · 컬러 그레이/네이비/블랙 · 사이즈 S/M/L/XL — 부드러운 프렌치 테리 소재의 후드 티셔츠. 캥거루 포켓과 두툼한 후드가 특징입니다.
+- [크루넥 맨투맨](https://shop-henna-delta.vercel.app/products/6): ₩45,000 · 컬러 아이보리/차콜/네이비 · 사이즈 S/M/L/XL — 기모 없는 사계절용 맨투맨. 목 늘어남을 줄인 립 마감이 적용되었습니다.
+- [스트라이프 롱슬리브](https://shop-henna-delta.vercel.app/products/7): ₩35,000 · 컬러 화이트/네이비 · 사이즈 S/M/L/XL — 가볍게 입기 좋은 스트라이프 긴팔 티셔츠.
+- [하프넥 니트](https://shop-henna-delta.vercel.app/products/8): ₩62,000 · 컬러 베이지/브라운 · 사이즈 S/M/L/XL — 고급스러운 광택의 하프넥 니트. 피부에 닿는 촉감이 부드럽습니다.
+
+## 하의
+
+- [와이드 데님 팬츠](https://shop-henna-delta.vercel.app/products/9): ₩44,250 (정가 ₩59,000) · 컬러 블루/블랙 · 사이즈 S/M/L/XL — 넉넉한 통으로 떨어지는 와이드 데님. 밑단 처리가 깔끔합니다.
+- [코튼 치노 팬츠](https://shop-henna-delta.vercel.app/products/10): ₩49,000 · 컬러 베이지/카키/네이비 · 사이즈 S/M/L/XL — 구김이 적은 코튼 트윌 치노. 슬림 스트레이트 핏.
+- [원턱 슬랙스](https://shop-henna-delta.vercel.app/products/11): ₩55,000 · 컬러 블랙/그레이 · 사이즈 S/M/L/XL — 허리 원턱 디테일의 테이퍼드 슬랙스. 출근룩과 캐주얼 모두 소화합니다.
+- [스웻 조거 팬츠](https://shop-henna-delta.vercel.app/products/12): ₩42,000 · 컬러 그레이/차콜 · 사이즈 S/M/L/XL — 밴딩 허리와 밑단 리브가 편안한 조거 팬츠.
+- [카고 팬츠](https://shop-henna-delta.vercel.app/products/13): ₩52,000 (정가 ₩65,000) · 컬러 카키/블랙 · 사이즈 S/M/L/XL — 실용적인 양쪽 카고 포켓. 여유 있는 핏의 워크웨어 팬츠.
+- [코튼 하프 팬츠](https://shop-henna-delta.vercel.app/products/14): ₩35,000 · 컬러 베이지/네이비 · 사이즈 S/M/L/XL — 무릎 위로 떨어지는 기본 하프 팬츠.
+- [리넨 와이드 쇼츠](https://shop-henna-delta.vercel.app/products/15): ₩39,000 · 컬러 아이보리/카키 · 사이즈 S/M/L/XL — 시원한 린넨 소재의 와이드 쇼츠.
+- [플리츠 와이드 슬랙스](https://shop-henna-delta.vercel.app/products/16): ₩69,000 · 컬러 차콜/브라운 · 사이즈 S/M/L/XL — 핀턱 디테일로 떨어짐이 좋은 와이드 슬랙스.
+
+## 아우터
+
+- [워크 코튼 자켓](https://shop-henna-delta.vercel.app/products/17): ₩89,000 · 컬러 카키/블랙 · 사이즈 S/M/L/XL — 두꺼운 코튼 캔버스로 만든 워크 자켓. 입을수록 자연스럽게 길이 듭니다.
+- [데님 트러커 자켓](https://shop-henna-delta.vercel.app/products/18): ₩63,200 (정가 ₩79,000) · 컬러 블루/블랙 · 사이즈 S/M/L/XL — 클래식한 트러커 실루엣의 데님 자켓.
+- [싱글 롱 코트](https://shop-henna-delta.vercel.app/products/19): ₩159,000 · 컬러 블랙/브라운 · 사이즈 S/M/L/XL — 무릎까지 오는 싱글 브레스티드 코트. 울 혼방으로 보온성이 좋습니다.
+- [숏 패딩 점퍼](https://shop-henna-delta.vercel.app/products/20): ₩95,200 (정가 ₩119,000) · 컬러 블랙/네이비 · 사이즈 S/M/L/XL — 가볍고 따뜻한 숏 패딩. 어디에나 매치하기 좋은 기본 디자인.
+
+## 액세서리
+
+- [볼캡](https://shop-henna-delta.vercel.app/products/21): ₩25,000 · 컬러 블랙/베이지/네이비 · 사이즈 FREE — 사이즈 조절이 가능한 코튼 볼캡.
+- [캔버스 에코백](https://shop-henna-delta.vercel.app/products/22): ₩19,000 · 컬러 아이보리/블랙 · 사이즈 FREE — 가볍고 튼튼한 캔버스 에코백. 내부 포켓이 있습니다.
+- [립 비니](https://shop-henna-delta.vercel.app/products/23): ₩17,600 (정가 ₩22,000) · 컬러 그레이/블랙/브라운 · 사이즈 FREE — 신축성이 좋은 립 조직의 비니.
+- [울 머플러](https://shop-henna-delta.vercel.app/products/24): ₩39,000 · 컬러 차콜/베이지 · 사이즈 FREE — 부드러운 울 혼방 머플러. 양끝 프린지 마감.
