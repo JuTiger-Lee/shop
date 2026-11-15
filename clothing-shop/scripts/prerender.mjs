@@ -95,7 +95,7 @@ function write(relPath, content) {
   writeFileSync(file, content)
 }
 
-// '/' → index.html, '/products/1' → products/1.html (vercel.json cleanUrls 로 확장자 없이 서빙)
+// '/' → index.html, '/products/1' → products/1.html (vercel.json rewrite 로 확장자 없이 서빙)
 for (const path of PRERENDER_PATHS) {
   const meta = getRouteMeta(path, '', SITE_URL)
   write(path === '/' ? 'index.html' : `${path.slice(1)}.html`, render(meta, `${nav}<main>${body(path, meta)}</main>${footer}`))
