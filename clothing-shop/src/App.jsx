@@ -11,8 +11,10 @@ import Wishlist from './pages/Wishlist'
 import Checkout from './pages/Checkout'
 import CheckoutSuccess from './pages/CheckoutSuccess'
 import CheckoutFail from './pages/CheckoutFail'
+import useSeo from './useSeo'
 
-function ScrollToTop() {
+function RouteEffects() {
+  useSeo()
   const { pathname } = useLocation()
   useEffect(() => {
     window.scrollTo(0, 0)
@@ -26,7 +28,7 @@ export default function App() {
       <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-white focus:p-3">
         본문으로 건너뛰기
       </a>
-      <ScrollToTop />
+      <RouteEffects />
       <Header />
       <main id="main" className="flex-1">
         <Routes>
